@@ -1,6 +1,7 @@
 # MDP_AIbot
 ## GPT-J Deploy
 1. https://towardsdatascience.com/how-to-build-your-own-gpt-j-playground-733f4f1246e5\
+2. [Sagemaker tutorial](https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/)
 ## Codex for Generating R code
 1. Playground :https://platform.openai.com/playground?model=code-davinci-002&prompt=%23%20R%20language%0A%23%20Calculate%20the%20mean%20distance%20between%20an%20array%20of%20points
 2. API tutorial: https://platform.openai.com/docs/api-reference/making-requests
